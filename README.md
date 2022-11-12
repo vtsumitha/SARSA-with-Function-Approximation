@@ -1,4 +1,4 @@
-# svtranga-SARSA-with-Function-Approximation
+# SARSA-with-Function-Approximation
 
 In this project, we will be performing SARSA with Linear approximation on Frozenlake, cartpole and lunar lander environment. 
 
